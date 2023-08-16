@@ -1,0 +1,29 @@
+.about {
+  width: 50rem;
+  max-width: 95%;
+  margin: 3rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 1.5rem;
+  background-color: #edefee;
+  padding: 2rem;
+}
+.about h1,
+.about h2 {
+  color: #edefee;
+  background-color: #495e57;
+  padding: 2rem;
+  border-radius: 2rem;
+  width: 100%;
+  transition: color 0.3s ease-in-out;
+}
+.about h1 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/hotel.jpg") no-repeat center center/cover;
+  padding: 5rem;
+}
+.about h1:hover,
+.about h2:hover {
+  color: #f4ce14;
+}

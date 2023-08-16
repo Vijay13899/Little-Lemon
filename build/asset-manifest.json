@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-Restaurant/static/css/main.37d78901.css",
+    "main.js": "/Little-Lemon-Restaurant/static/js/main.2dd77d3d.js",
+    "static/media/hotel.jpg": "/Little-Lemon-Restaurant/static/media/hotel.ac8b162f5cddd04965fe.jpg",
+    "static/media/salad.jpg": "/Little-Lemon-Restaurant/static/media/salad.533ef8d8e67467c3aebf.jpg",
+    "static/media/seafood.jpg": "/Little-Lemon-Restaurant/static/media/seafood.038db839f2ccfdb89cc2.jpg",
+    "static/media/falafel.jpg": "/Little-Lemon-Restaurant/static/media/falafel.d17e7f4a367554122d52.jpg",
+    "static/media/lamb.jpg": "/Little-Lemon-Restaurant/static/media/lamb.746265d1043565b06e92.jpg",
+    "static/media/chicken.jpg": "/Little-Lemon-Restaurant/static/media/chicken.0a18bcae46a37dfe7916.jpg",
+    "static/media/hummus.jpg": "/Little-Lemon-Restaurant/static/media/hummus.e229caa09fb652f59802.jpg",
+    "static/media/cheesecake.jpg": "/Little-Lemon-Restaurant/static/media/cheesecake.8cda9ad6d5df28ce21af.jpg",
+    "static/media/baklava.jpg": "/Little-Lemon-Restaurant/static/media/baklava.e84548119ac1082af8b5.jpg",
+    "static/media/chefs-mario-and-adrian_a.jpg": "/Little-Lemon-Restaurant/static/media/chefs-mario-and-adrian_a.baf0d2e31dc6977f913f.jpg",
+    "static/media/chefs-mario-and-adrian_b.jpg": "/Little-Lemon-Restaurant/static/media/chefs-mario-and-adrian_b.5d8cccd399ab68c5c40b.jpg",
+    "static/media/greek-salad.jpg": "/Little-Lemon-Restaurant/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/bruschetta.jpg": "/Little-Lemon-Restaurant/static/media/bruschetta.d54e450bda5efcf06010.jpg",
+    "static/media/restaurant-food.jpg": "/Little-Lemon-Restaurant/static/media/restaurant-food.827fb0bfe6f625329f41.jpg",
+    "static/media/lemon-dessert.jpg": "/Little-Lemon-Restaurant/static/media/lemon-dessert.a146cfc0ccf8ce82fae4.jpg",
+    "static/media/logo-white.png": "/Little-Lemon-Restaurant/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/Spanakopita.avif": "/Little-Lemon-Restaurant/static/media/Spanakopita.cae9e4ef897eb9e0b752.avif",
+    "static/media/customer1.jpg": "/Little-Lemon-Restaurant/static/media/customer1.ccdcea01362423e8e2bf.jpg",
+    "static/media/customer3.jpg": "/Little-Lemon-Restaurant/static/media/customer3.ba5a7f9f30d58ab385d9.jpg",
+    "static/media/customer4.jpg": "/Little-Lemon-Restaurant/static/media/customer4.fa4be855aa1466a1fcb3.jpg",
+    "static/media/customer2.jpg": "/Little-Lemon-Restaurant/static/media/customer2.333854849cb34643a28e.jpg",
+    "static/media/logo.png": "/Little-Lemon-Restaurant/static/media/logo.e68246686f716ff6e5d8.png",
+    "index.html": "/Little-Lemon-Restaurant/index.html",
+    "main.37d78901.css.map": "/Little-Lemon-Restaurant/static/css/main.37d78901.css.map",
+    "main.2dd77d3d.js.map": "/Little-Lemon-Restaurant/static/js/main.2dd77d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d78901.css",
+    "static/js/main.2dd77d3d.js"
+  ]
+}

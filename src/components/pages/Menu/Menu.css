@@ -1,0 +1,15 @@
+.menu h1 {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.cards {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+.meal-card {
+  width: 20rem;
+  max-width: 100%;
+}
